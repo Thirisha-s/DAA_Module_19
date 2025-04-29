@@ -46,6 +46,7 @@ print(merge_sort(inp_arr))
 
 ## Output:
 
+![Screenshot 2025-04-29 135320](https://github.com/user-attachments/assets/0f357b7f-2d4f-4c3d-810c-4755fd9481a4)
 
 
 ## Result:
