@@ -18,8 +18,8 @@ To write a python program to implement quick sort using tha last element as pivo
 ## Program:
 ```python
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: 
-Register Number:
+Developed by: THIRISHA S
+Register Number: 212222230160
 def qs(l,r,nums):
     if l<r:
         pi=partition(l,r,nums)
