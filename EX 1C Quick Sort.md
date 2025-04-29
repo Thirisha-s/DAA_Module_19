@@ -46,7 +46,8 @@ print("Sorted array:",nums)
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fb3d93bb-8aab-46f5-911e-a3a4cddd89df)
+
 
 ## Result:
 The program successfully sorts the input array using the QuickSort algorithm, arranging the elements in ascending order.
